@@ -1,0 +1,52 @@
+# 🔐 Environment
+
+.env
+*.env
+
+# 🐍 Python
+
+**pycache**/
+*.pyc
+*.pyo
+*.pyd
+
+# 🧪 Virtual Environments
+
+venv/
+tf_vevv/
+env/
+
+# 📦 Node
+
+node_modules/
+
+# ⚛️ React Build
+
+build/
+dist/
+
+# 📄 Uploaded Files
+
+backend/data/
+
+# 🧠 FAISS Indexes
+
+backend/faiss_index_*
+faiss_index_*
+
+# 🖥️ OS
+
+.DS_Store
+Thumbs.db
+
+# 🧾 Logs
+
+*.log
+
+# 🧪 Jupyter
+
+.ipynb_checkpoints/
+
+# 🔧 VS Code
+
+.vscode/
